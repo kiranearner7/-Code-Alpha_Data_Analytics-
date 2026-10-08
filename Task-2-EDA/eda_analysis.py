@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # 1. Load the dataset
 # -------------------------------------------------
 
-file_path = "../Task-1-web-scraping/scraped_data.csv"
+file_path ="scraped_data.csv"
 df = pd.read_csv(file_path)
 
 print("===== DATASET PREVIEW =====")
